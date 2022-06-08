@@ -18,7 +18,7 @@ def replace_spaces_with_hyphen(words):
 
 
 query = replace_spaces_with_hyphen(keywords)
-# default url address for seek.co.nz
+# default url address for seek.co.nz website
 url_page1 = (f"https://www.seek.co.nz/{query}-jobs")
 
 
