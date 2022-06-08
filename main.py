@@ -6,7 +6,7 @@ import streamlit as st
 ####################################################################################
 # Sidebar
 ####################################################################################
-
+# Test version!!!!! working not with all keywords!!!!!
 # ask user for keywords to start the search
 st.sidebar.info("This app allows to quickly check all positions from the first 10 pages of seek.co.nz")
 keywords = st.sidebar.text_input("Please enter keywords for you search", value='data engineer')
