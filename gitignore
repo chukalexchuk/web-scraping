@@ -1,7 +1,2 @@
-__pycache__
-data/
-*.sql
-Untitled.ipynb
-Design days' peak parameters.csv
-.ipynb_checkpoints/
 .idea
+__pycache__
